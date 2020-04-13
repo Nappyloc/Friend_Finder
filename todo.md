@@ -1,2 +1,15 @@
-* Create Home Page
-* Create Survey Page
+- [x] Create Home Page
+- [x] Create Survey Page
+- [ ] Validate Form
+- [x] Capture form data
+- [ ] Push form data to database
+- [ ] write funciton to compare scores
+- [ ] create results modal
+- [ ] write function to dispay results in results modal
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
+- [ ]
