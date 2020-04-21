@@ -6,8 +6,8 @@
 - [ ] write funciton to compare scores
 - [ ] create results modal
 - [ ] write function to dispay results in results modal
-- [ ]
-- [ ]
+- [ ] Create route to survey page that defults to the home page
+- [ ] 
 - [ ]
 - [ ]
 - [ ]
