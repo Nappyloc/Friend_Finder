@@ -1,11 +1,4 @@
-// Create Route to survey wich should display the survey page
-// Create a default route that leads to the home page
-
-
 var path = require( "path" );
-
-
-
 
 module.exports = function ( app )
 {
